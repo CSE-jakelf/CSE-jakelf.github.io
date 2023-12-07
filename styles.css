@@ -34,3 +34,8 @@ width: 20%;
 .assignment a:hover {
     color: #0d2332;
 }
+
+title {
+    text-align: center;
+    color: #1B4F72;
+}
