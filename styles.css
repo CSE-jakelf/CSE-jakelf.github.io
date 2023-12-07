@@ -3,7 +3,7 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-	color: midnightblue;
+	color: #e97993;
 	text-align: center;
 }
 .assignments {
@@ -16,7 +16,7 @@ width: 20%;
     padding: 10px;
     margin: 10px;
     margin-bottom: 30px;
-    background-color: ##ffb3ff;
+    background-color: #ffb3ff;
     border-radius: 5px;
     box-shadow: 8px 8px #e97993;
 
@@ -24,7 +24,7 @@ width: 20%;
 	
 }
 .assign img {
-	width: 200px;
+	width: 250px;
 	padding: 10px;
     border: 2px solid #e97993;
     border-radius: 5px;
@@ -37,5 +37,5 @@ width: 20%;
 
 title {
     text-align: center;
-    color: #1B4F72;
+    color: #e97993;
 }
